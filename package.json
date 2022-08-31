@@ -1,0 +1,23 @@
+{
+  "name": "testing_excercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarMWarraich/testing_excercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarMWarraich/testing_excercise/issues"
+  },
+  "homepage": "https://github.com/OmarMWarraich/testing_excercise#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
